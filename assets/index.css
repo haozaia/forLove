@@ -160,8 +160,8 @@ body{
     position: relative;
   }
   .box{
-    width:500px;
-    height:300px;
+    /* width:500px;
+    height:300px; */
     margin: 0 auto;
     transform-style: preserve-3d;
     transform: rotateX(-30deg) rotateY(-80deg);
